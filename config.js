@@ -1,0 +1,2 @@
+// ใส่ค่าจาก Supabase (Project Settings > API) หรือจะตั้งค่าผ่านปุ่มคลาวด์ในเว็บก็ได้
+window.APP_CONFIG = { SUPABASE_URL: "https://yneoaqalryzdybnfboos.supabase.co/rest/v1/", SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InluZW9hcWFscnl6ZHlibmZib29zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTMxNDQ4OTYsImV4cCI6MjEwODcyMDg5Nn0.k0doQNHKoMzrvDNupwZSq2f9MTVFVit3_tZ80--Vwdw" };
